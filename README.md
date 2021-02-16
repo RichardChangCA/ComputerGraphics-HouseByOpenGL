@@ -9,3 +9,5 @@ There is a house constructed by OpenGL codes.
 3.run it
 
 4.more details are shown in the report
+
+![avator](https://github.com/RichardChangCA/ComputerGraphics-HouseByOpenGL/blob/master/house.jpg)
